@@ -16,8 +16,8 @@ A Tabela 1 detalha todos os componentes eletrônicos e eletromecânicos integrad
 | Buck Converter | LM2596 | 1 | 21 | 7.4V | 279,72 |
 | Sensores IR | TCRT5000 | 3 | 20 | 3.3V | 356,40 |
 | Ponte H | TB6612FNG | 1 | 5 | 3.3V | 29,70 |
-| Motor N20 - A | Esquerda (Vazio) | 1 | 53 | 6V | 572,40 |
-| Motor N20 - B | Direita (Vazio) | 1 | 46 | 6V | 496,80 |
+| Motor N20 - A |  | 1 | 53 | 6V | 572,40 |
+| Motor N20 - B | | 1 | 46 | 6V | 496,80 |
 
 ---
 
