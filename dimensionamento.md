@@ -7,7 +7,7 @@ Este documento apresenta o levantamento de carga e o cálculo de autonomia da ba
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | Microcontrolador | ESP32 WROOM 32E, 38 pinos | 1 | 80 | 3,3V | E = 475,2J |
 | Buck converter | LM2596 | 1 | 25 | 7,4V | E = 333J |
-| Sensores IR | TCRT5000 | 3 | 20 | 3,3V | E = 475,2J |
+| Sensores IR | TCRT5000 | 3 | 20 | 3,3V | E = 356,4J |
 | ponte H | TB6612FNG | 1 | 5 | 3,3V | E = 29,7J |
 | Motor N20 + Encoder |  | 2 | 600 | 6V | E = 6480J |
 
